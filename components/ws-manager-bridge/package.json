@@ -28,7 +28,7 @@
     "@gitpod/gitpod-protocol": "0.1.5",
     "@gitpod/ws-manager": "0.1.5",
     "@gitpod/ws-daemon": "0.1.5",
-    "amqplib": "^0.5.2",
+    "amqplib": "^0.7.1",
     "express": "^4.16.1",
     "grpc": "^1.21.1",
     "inversify": "^5.0.1",
