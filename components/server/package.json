@@ -37,7 +37,7 @@
     "@google-cloud/storage": "^2.5.0",
     "@octokit/rest": "16.35.0",
     "agent-base": "4.2.1",
-    "amqplib": "^0.5.2",
+    "amqplib": "^0.7.1",
     "base-64": "^0.1.0",
     "bitbucket": "^2.4.2",
     "body-parser": "^1.18.2",
