@@ -43,7 +43,7 @@
     "moment": "^2.20.1",
     "node-ssh": "^5.1.2",
     "octicons": "^7.1.0",
-    "ovsx": "0.1.0-next.e000fdb",
+    "ovsx": "0.2.0",
     "prom-client": "^10.2.0",
     "ps-tree": "^1.2.0",
     "react": "^16.4.1",
