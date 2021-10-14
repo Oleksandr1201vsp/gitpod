@@ -28,7 +28,7 @@
     "@theia/scm": "next",
     "@theia/terminal": "next",
     "@theia/userstorage": "next",
-    "@theia/vsx-registry": "next",
+    "@theia/vsx-registry": "1.18.0",
     "@theia/workspace": "next",
     "bitbucket": "^2.4.2",
     "decompress": "^4.2.0",
