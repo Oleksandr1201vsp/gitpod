@@ -7,12 +7,12 @@ require (
 	github.com/docker/cli v0.0.0-20200113155311-34d848623701
 	github.com/gitpod-io/gitpod/common-go v0.0.0-00010101000000-000000000000
 	github.com/gitpod-io/gitpod/registry-facade v0.0.0-00010101000000-000000000000
-	github.com/google/go-cmp v0.5.0
+	github.com/google/go-cmp v0.5.5
 	github.com/gorilla/mux v1.7.3
 	github.com/opencontainers/image-spec v1.0.1
-	github.com/prometheus/client_golang v1.1.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/spf13/cobra v0.0.5
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 )
 
