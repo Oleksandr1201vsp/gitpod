@@ -7,7 +7,7 @@ require (
 	github.com/Shopify/toxiproxy v2.1.4+incompatible
 	github.com/sirupsen/logrus v1.5.0
 	github.com/spf13/cobra v0.0.7
-	golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	k8s.io/api v0.0.0-20190620084959-7cf5895f2711
 	k8s.io/apimachinery v0.0.0-20190612205821-1799e75a0719
 	k8s.io/client-go v0.0.0-00010101000000-000000000000
