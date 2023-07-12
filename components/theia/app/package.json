@@ -35,7 +35,7 @@
     "@theia/userstorage": "next",
     "@theia/variable-resolver": "next",
     "@theia/workspace": "next",
-    "patch-package": "^6.2.2"
+    "patch-package": "^7.0.1"
   },
   "devDependencies": {
     "@theia/cli": "next"
