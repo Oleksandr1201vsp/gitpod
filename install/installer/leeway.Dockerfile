@@ -2,7 +2,7 @@
 # Licensed under the GNU Affero General Public License (AGPL).
 # See License-AGPL.txt in the project root for license information.
 
-FROM alpine AS prep
+FROM alpine:3.18.3 AS prep
 ARG VERSION
 ARG IMAGE_PREFIX
 
@@ -26,7 +26,7 @@ RUN echo "chart_location = \"../helm/gitpod\"" >> installer.auto.tfvars && \
     cp installer.auto.tfvars terraform/aws && \
     rm installer.auto.tfvars
 
-FROM alpine
+FROM alpine:3.18.3
 RUN addgroup -g 1000 installer && \
     adduser -D -G installer -u 1000 installer && \
     mkdir /dist /workspace && \
