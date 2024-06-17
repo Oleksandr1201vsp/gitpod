@@ -25,7 +25,7 @@
     "@theia/outline-view": "next",
     "@theia/output": "next",
     "@theia/plugin-ext": "next",
-    "@theia/plugin-ext-vscode": "next",
+    "@theia/plugin-ext-vscode": "1.46.0",
     "@theia/preferences": "next",
     "@theia/preview": "next",
     "@theia/process": "next",
