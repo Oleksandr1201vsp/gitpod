@@ -32,7 +32,7 @@
     "@theia/workspace": "next",
     "bitbucket": "^2.4.2",
     "decompress": "^4.2.0",
-    "diff": "^3.4.0",
+    "diff": "^8.0.3",
     "filenamify": "^4.1.0",
     "gitlab": "^14.2.2",
     "google-protobuf": "^3.8.0-rc.1",
